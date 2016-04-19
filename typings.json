@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "rxjs": "npm:rxjs/rx.d.ts"
+  }
+}
